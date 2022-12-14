@@ -1,3 +1,3 @@
-# Project Portfolio
+# Project Portfolio 
 
-Folder ini berisi tentang project Deep Learning, Machine Learning, Computer Vision, Natural Language Processing
+Folder ini berisi tentang project Deep Learning, Machine Learning, Computer Vision, Natural Language Processing, dan juga cv internship.
